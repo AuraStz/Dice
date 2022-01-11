@@ -1,2 +1,2 @@
-# Dice
+# Dice 🎲
 CSS exercice
